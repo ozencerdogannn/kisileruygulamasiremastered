@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655426748498",
+    "project_id": "uygulamalarim-cba17",
+    "storage_bucket": "uygulamalarim-cba17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655426748498:android:8a73a979d59146babc5f8b",
+        "android_client_info": {
+          "package_name": "com.example.kisileruygulamasiremastered"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzjN6lHMcKZJ3qIahI53hq3RVg3-Q93rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
